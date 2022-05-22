@@ -13,6 +13,8 @@ This is a repo for my epic hacking script I made when I was bored
  * ffmpeg
 
 ## What the script Does
- It asks you to type ``Yes! Do as I say.`` as a reference to the linus tech tips linux challenge
- While it is "Hacking" it is actually downloading Never Gonna give you up to /tmp
- It will say that hacking is complete and use mpv to play it.
+It asks you to type ``Yes! Do as I say.`` as a reference to the linus tech tips linux challenge
+ 
+While it is "Hacking" it is actually downloading Never Gonna give you up to /tmp
+ 
+It will say that hacking is complete and use mpv to play it.
